@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleToast</string>
+    <string name="textView">ボタンを押してください</string>
+    <string name="button_good_morning">おはよう</string>
+    <string name="toast_good_morning">Good Morning</string>
+    <string name="button_hello">こんにちは</string>
+    <string name="toast_hello">Hello</string>
+    <string name="button_good_night">おやすみ</string>
+    <string name="toast_good_night">Good Night</string>
+</resources>
